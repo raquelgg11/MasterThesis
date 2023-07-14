@@ -1,7 +1,7 @@
 # MasterThesis
 This repository contains several files developed for my Master`s thesis. 
 
-`.dat` files have been compressed using Pickle module.
+`.dat` files have been compressed using **Pickle** module.
 
 `LS-MM-MT.dat` contains Synthetic Lethalities identified for Multiple Myeloma model, followed by distinct Metabolic Tasks in which they are involved. 
 
@@ -9,3 +9,8 @@ This repository contains several files developed for my Master`s thesis.
 
 `LS-human1-MT.dat` has the same information, but for Human1. 
 
+`SGD-MM.dat` contains essential genes identified for Multiple Myeloma model, followed by distinct Metabolic Tasks in which they are involved. 
+
+`SGD-blood.dat` has the same information, but for blood model. 
+
+`SGD-human.dat` has the same information, but for Human1. 
