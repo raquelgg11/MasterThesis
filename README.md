@@ -14,3 +14,5 @@ This repository contains several files developed for my Master`s thesis.
 `SGD-blood.dat` has the same information, but for blood model. 
 
 `SGD-human.dat` has the same information, but for Human1. 
+
+`generating57models.ipynb` is a Jupyter Notebook script which generate models able to perform each of the 57 Metabolic Tasks. 
