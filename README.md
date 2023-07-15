@@ -1,5 +1,5 @@
 # MasterThesis
-This repository contains several files developed for my Master`s thesis. 
+This repository contains several files developed for my Master's thesis. 
 
 `.dat` files have been compressed using **Pickle** module.
 
